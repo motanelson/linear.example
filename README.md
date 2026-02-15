@@ -1,2 +1,1 @@
-# game.table.builder
-build land maps table
+wizard genareter for mounter code to past on power automate
